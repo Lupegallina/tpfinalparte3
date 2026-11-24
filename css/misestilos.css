@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "MiFuente";
+    src: url("../fuentes/Bittera-Demo.ttf") format("truetype");
+}
+
+body {
+    font-family: "MiFuente", sans-serif;
+}
