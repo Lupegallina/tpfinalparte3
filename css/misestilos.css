@@ -5,7 +5,7 @@
 
 body {
     font-family: "MiFuente", sans-serif;
-    background-color: rgb(4, 30, 66);
+    background-color: #0e2835;
 }
 
 
@@ -20,7 +20,7 @@ hr {
     
 }
 
-.portada img {
+.portada video {
     width: 100%;
     display: flex;
 }
@@ -32,4 +32,5 @@ hr {
     transform: translate(-50%, -50%);
     color: white;
 }
+
 
